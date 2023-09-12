@@ -10,7 +10,7 @@ const Logo = () => {
       <img
         className="solid-logo"
         src={LogoS}
-        alt="Chandra"
+        alt=" Chandra"
       />
 
       <svg
